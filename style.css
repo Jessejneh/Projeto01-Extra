@@ -1,0 +1,100 @@
+#body {
+  font-family: 'Dosis';
+  font-family: 'Open Sans';
+  margin: 0;
+}
+
+#main {
+  width: 626px;
+  margin: auto;
+  text-align: center;
+}
+
+#main img {
+  margin-bottom: 32px;
+  margin-top: 64px;
+  }
+
+h1 {
+  font-family: 'Dosis';
+  font-size: 32px;
+  line-height: 40.45px;
+  margin-bottom: 16px;
+  font-weight: normal;
+}
+
+h1 span {
+  font-weight: bold;
+  color: #EE24FF;
+}
+
+p strong {
+  font-weight: bold;
+  color: #3F3D56;
+}
+
+#main p {
+  margin-bottom: 32px;
+  font-family: 'Open Sans';
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: normal;
+  color: #828282;
+}
+
+#main br + span {
+  color: #828282;
+  font-weight: bold;
+}
+
+#main p + p {
+  line-height: 20.43px;
+}
+
+#footer {
+  width: 1024px;
+  height: 147.169px;
+  margin: 64px auto;
+  }
+
+  #footer a {
+  font-family: 'Open Sans';
+  height: 15.169px;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  color: #3F3D56;
+}
+
+
+#footer #line {
+  width: 391px;
+  height: 0px;
+  border: 1px solid #ECEFF2;
+}
+
+#footer #destino {
+  width: 66px;
+  line-height: 22.152px;
+  margin-left: 433px;  
+
+}
+
+#footer #ofertas { 
+  width: 57px;
+  line-height: 22.152px;
+  margin-left: 42px;    
+}
+
+#footer #contato {
+  width: 61px;
+  height: 15.169px;
+  line-height: 22.152px;
+  margin-left: 42px;  
+  margin-right: 317px;  
+}
+
+#wave {
+  margin-top: 28px;
+ }
